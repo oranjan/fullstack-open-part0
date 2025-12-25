@@ -24,8 +24,11 @@ Describes how a new note is added in the SPA using JavaScript and API calls.
 
 <img width="799" height="407" alt="Exercise 0.6 diagram" src="https://github.com/user-attachments/assets/edc27c33-19d2-4198-b07f-a5cbce96b505" />
 
+
+## What I learned the difference In resource fetching /api Calls between adding new notes in both Non SPA vs SPA web Apps 
+
 ## Course
 
-* Fullstack Open 2024
+* Fullstack Open 2025
 * University of Helsinki
 * [https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6)
